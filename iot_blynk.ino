@@ -6,8 +6,8 @@
 char auth[] = "J2xMqsSgE0WFlQh2HBTA1ufzTiBCoIqp";
 
 // id dan password internet kamu
-char ssid[] = "JASON LEONARD";
-char pass[] = "monicagracia12345";
+char ssid[] = "myhome";
+char pass[] = "indygo567";
 
 void setup()
 {
